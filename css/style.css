@@ -332,7 +332,7 @@ iframe {
 
 /*<==responsividade==>*/
 
-@media (min-width:768px) {
+@media (max-width:768px) {
     .img-capa {
         width: 46%;
         margin: auto;
